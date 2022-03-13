@@ -1,0 +1,18 @@
+
+
+.caixa{
+    width: 800px;
+    height: 800px;
+    border: solid 2px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cx{
+    width: 200px;
+    height: 200px;
+    border: solid 2px;
+}
